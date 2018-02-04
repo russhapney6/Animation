@@ -1,4 +1,7 @@
 sceneSetups:
 - path: Assets/Master.unity
   isLoaded: 1
+  isActive: 0
+- path: Assets/2D_Example/AnimaTOR/0.unity
+  isLoaded: 1
   isActive: 1
